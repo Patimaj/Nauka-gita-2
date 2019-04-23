@@ -29,6 +29,14 @@ h2  {
 .container {
     width: 30%;
 }
+.email {
+    margin: 0;
+    font-size: 25px;
+    line-height: 1.7;
+    text-align: center;
+    
+    
+ }
 
 /* .title {
     width: 30%;
