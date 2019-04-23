@@ -1,0 +1,11 @@
+1.autoprefixer-cli:
+ 
+komenda 
+autoprefixer-cli -o style.prefixed.css main.css
+
+2.u-html-checker
+
+komenda:
+cli -f --formatter <stylish>
+
+
